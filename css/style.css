@@ -9,5 +9,9 @@ body{
   font-size: 50pt;
   font-weight: bold;
   font-family: "Verdana";
-  
+}
+.columns{
+  column-width: 320px;
+  column-count: 3;
+  column-rule: 1px solid #a4a4a4;
 }
