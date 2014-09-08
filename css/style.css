@@ -28,14 +28,14 @@ body{
  float: right;
  border-style: none none solid none;
  height: 160px;
- padding-right: 2px;
+ padding-left: 2px;
 }
 #content {
  width: 318px;
  float: right;
  border-style: none none solid none;
  height: 160px;
- padding-right: 2px;
+ padding-left: 2px;
 }
 
 .right{
