@@ -17,6 +17,7 @@ body{
 #nav {
  width: 320px;
  float: left;
+ margin: 0px 320px 0px 320px;
 }
 #aside {
  width: 320px;
