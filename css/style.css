@@ -1,7 +1,9 @@
 html{
   background: #1c1c1c;
 }
-
+body{
+  margin: 0px;
+}
 .heading{
   color: #ff0000;
   font-size: 50pt;
@@ -21,7 +23,7 @@ html{
  float: right;
 }
 #content {
- margin: 0 320px 0 320px;
+ width: 320px;
  float: right;
 }
 
