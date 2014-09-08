@@ -10,8 +10,8 @@ body{
   font-weight: bold;
   font-family: "Verdana";
 }
-.columns{
+.column{
   column-width: 320px;
   column-count: 3;
-  column-rule: 1px solid #a4a4a4;
+  column-rule: 3px solid #a4a4a4;
 }
