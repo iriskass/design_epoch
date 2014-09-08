@@ -26,8 +26,11 @@ body{
  margin: 0 320px 0 320px;
 }
 
-.important{
+.right{
   color: a4a4a4;
+}
+.centred{
+  color:a4a4a4;
 }
 li{
   list-style-type: none;
