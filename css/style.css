@@ -25,3 +25,7 @@ body{
 #content {
  margin: 0 320px 0 320px;
 }
+
+.important{
+  color: d8d8d8;
+}
