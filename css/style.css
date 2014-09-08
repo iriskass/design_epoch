@@ -22,6 +22,7 @@ body{
 #aside {
  width: 320px;
  float: right;
+ margin: 0px 320px 0px 320px
 }
 #content {
  width: 320px;
