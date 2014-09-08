@@ -24,10 +24,12 @@ body{
 #aside {
  width: 320px;
  float: right;
+ border-style: none none solid none;
 }
 #content {
  width: 320px;
  float: right;
+ border-style: none none solid none;
 }
 
 .right{
