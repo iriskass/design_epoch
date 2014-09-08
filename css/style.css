@@ -10,7 +10,7 @@ html{
 }
 #container {
  width: 960px;
- margin: 0 auto;
+ margin: 40px 0px 0px 200px;
 }
 #nav {
  width: 320px;
