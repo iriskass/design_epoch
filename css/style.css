@@ -17,12 +17,12 @@ body{
 #nav {
  width: 320px;
  float: left;
- margin: 30px 200px 200px 0px;
+ margin: 30px 100px 100px 0px;
 }
 #aside {
  width: 320px;
  float: right;
- margin: 30px 200px 200px 0px;
+ margin: 30px 100px 100px 0px;
 }
 #content {
  width: 320px;
