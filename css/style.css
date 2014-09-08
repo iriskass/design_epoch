@@ -2,7 +2,7 @@ html{
   background: #1c1c1c;
 }
 body{
-  margin-top: 20px;
+  margin-top: 0px;
 }
 .heading{
   color: #ff0000;
@@ -16,7 +16,7 @@ body{
 }
 #nav {
  width: 320px;
- float: center;
+ float: right;
 }
 #aside {
  width: 320px;
