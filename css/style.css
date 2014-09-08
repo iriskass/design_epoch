@@ -12,7 +12,7 @@ body{
 }
 #container {
  width: 960px;
- margin: 0px;
+ margin: 30px 100px 100px 0px;
 }
 #nav {
  width: 320px;
