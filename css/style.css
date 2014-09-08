@@ -22,11 +22,12 @@ body{
 #aside {
  width: 320px;
  float: right;
- margin: 30px 200px 200px 0px
+ margin: 30px 200px 200px 0px;
 }
 #content {
  width: 320px;
  float: right;
+ margin: 30px 200px 200px 0px;
 }
 
 .right{
