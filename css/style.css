@@ -29,3 +29,6 @@ body{
 .important{
   color: d8d8d8;
 }
+li{
+  list-style-type: none;
+} 
