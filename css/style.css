@@ -26,11 +26,13 @@ body{
  width: 320px;
  float: right;
  border-style: none none solid none;
+ height: 160px;
 }
 #content {
  width: 320px;
  float: right;
  border-style: none none solid none;
+ height: 160px;
 }
 
 .right{
